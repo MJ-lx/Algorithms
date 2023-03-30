@@ -1,0 +1,33 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Robert Sedgewick 教授的算法课程",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.21.0",
+    "@types/jest": "^29.5.0",
+    "@types/node": "^18.15.11",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJ-lx/Algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJ-lx/Algorithms/issues"
+  },
+  "homepage": "https://github.com/MJ-lx/Algorithms#readme"
+}
