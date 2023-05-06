@@ -3,7 +3,7 @@
  * 3N + 1
  */
 
-import { exchange, less } from "./until"
+import { exchange, less } from "../utils"
 
 export default function shellSort(nums: number[]) {
   const len = nums.length

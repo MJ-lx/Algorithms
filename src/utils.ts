@@ -1,3 +1,9 @@
+
+
+
+/**
+ * 排序算法的公共方法
+ */
 export function compareTo(a: number, b: number) {
   return a - b
 }

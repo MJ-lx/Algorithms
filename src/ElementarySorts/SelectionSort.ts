@@ -2,7 +2,7 @@
  * 选择排序
  */
 
-import { exchange, less } from "./until";
+import { exchange, less } from "../utils";
 
 export default function selectionSort(nums: number[]) {
   const len = nums.length;

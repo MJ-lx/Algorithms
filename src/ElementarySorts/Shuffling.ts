@@ -2,7 +2,7 @@
  * 随机打乱数组
  */
 
-import { exchange } from "./until"
+import { exchange } from "../utils"
 
 export default function shuffling(nums: number[]) {
   const len = nums.length
