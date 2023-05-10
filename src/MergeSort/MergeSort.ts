@@ -50,9 +50,8 @@ export function mergeSortByIteration(nums: number[]) {
   }
 }
 
-
-const nums = [0, 3, 6, 5, 22, 3, 5, 7]
-
-mergeSortByIteration(nums)
+// 测试数据
+// const nums = [0, 3, 6, 5, 22, 3, 5, 7]
+// mergeSortByIteration(nums)
 // mergeSortByRecursion(nums, 0, nums.length - 1)
-console.log(nums)
+// console.log(nums)
